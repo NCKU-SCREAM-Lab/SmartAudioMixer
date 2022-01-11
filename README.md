@@ -1,6 +1,6 @@
-# SmartAudioMixer 主畫面開發
+## SmartAudioMixer 主畫面開發
 
-### 功能
+#### 功能
 ---
 * File
   * 讀檔
@@ -26,10 +26,14 @@
   * Plugin
 ![image](https://user-images.githubusercontent.com/81510945/148918910-548a9554-3d95-4a03-968c-408b9ef099a6.png)
 
-### Future Work
+#### Future Work
 ---
 * 錄音功能
 * 分別調整每一軌音量大小
 * 節拍器、拍速、拍號
 * multichannel分軌
 * 儲存使用者參數設定 (link: PluginGUIMagic)
+
+#### 可改善之處
+---
+* 目前windows上還沒有更新timeBar的功能
