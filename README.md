@@ -7,6 +7,7 @@
     * Import Project
   * 寫檔
     * Save As
+      * also, Save As Wav
     * Save Project
   * 新增檔案
     * New Project
